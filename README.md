@@ -36,7 +36,6 @@ git clone https://github.com/tinabyte/spotlytee
 ```
 
 #### Installation
-Installation
 ```sh
 streamlit run frontend.py --server.maxUploadSize 1000000
 ```
