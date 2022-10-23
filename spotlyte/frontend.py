@@ -107,7 +107,7 @@ if selected == "Home":
         st.markdown("<p style='text-align: center; font-size:20px; color: white;'> Spotlyte is a multipurpose audio, video, and text converter that that allows you to input a long and tedious file and returns the important outlined parts of it. It does this by utilizing APIs and machine learning algorithms to detect what is important in a long file. </p>", unsafe_allow_html=True)
     with col3:
          st.markdown("<h1 style='text-align: center; font-size:30px; color: #f83c1c;'>Our mission. </h>", unsafe_allow_html=True)
-         st.markdown("<p style='text-align: center; font-size:20px; color: white;'>Spotlyte’s mission is to help level up students’ education. Students have busy schedules and efficiently studying for classes is essential to success in classes. Allowing for the compression of long recorded lectures into outlined PDF and audio files for quick reviewing and listening to while commuting throughout the day. This makes studying and reviewing easier and more convenient than ever.</p>", unsafe_allow_html=True)
+         st.markdown("<p style='text-align: center; font-size:20px; color: white;'>Spotlyte’s mission is to help level up students’ education. We enable students with busy schedules to learn more - without the fluff.</p>", unsafe_allow_html=True)
     with col4:
         st.markdown("")
 
